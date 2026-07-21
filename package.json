@@ -1,0 +1,22 @@
+{
+  "name": "devops-pipliens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosphC/devops-pipliens.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/JosphC/devops-pipliens/issues"
+  },
+  "homepage": "https://github.com/JosphC/devops-pipliens#readme"
+}
